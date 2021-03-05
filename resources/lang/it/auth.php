@@ -17,5 +17,10 @@ return [
     'throttle' => 'Troppi tentativi di accesso. Per favore, riprova tra :seconds secondi.',
 	'sign_in'=>'Prego effettuare l\'autenticazione',
 	'rememberme'=>'Ricordami',
-	'forgot_pwd'=>'Hai dimenticato la password?'
+	'forgot_pwd'=>'Hai dimenticato la password?',
+	'sign_on'=>'Prego effettuare la registrazione',
+	'name'=>'Nome e Cognome',
+	'email'=>'indirizzo Email',
+	'cpassword'=>'Conferma Password',
+	'bregister'=>'Registra',
 ];

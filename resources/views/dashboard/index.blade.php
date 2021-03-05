@@ -2,6 +2,7 @@
 
 @section('main')
                     <div class="row">
+                    	<!-- Widget 1-->
                         <div class="col-lg-3 col-md-6">
                             <div class="panel panel-primary">
                                 <div class="panel-heading">
@@ -25,6 +26,7 @@
                                 </a>
                             </div>
                         </div>
+                        <!-- Widget 2 -->
                         <div class="col-lg-3 col-md-6">
                             <div class="panel panel-green">
                                 <div class="panel-heading">
@@ -48,6 +50,7 @@
                                 </a>
                             </div>
                         </div>
+                        <!-- Widget 3 -->
                         <div class="col-lg-3 col-md-6">
                             <div class="panel panel-red">
                                 <div class="panel-heading">
@@ -71,6 +74,7 @@
                                 </a>
                             </div>
                         </div>
+                        <!-- Widget 4 -->
                         <div class="col-lg-3 col-md-6">
                             <div class="panel panel-yellow">
                                 <div class="panel-heading">

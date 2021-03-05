@@ -17,5 +17,10 @@ return [
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 	'sign_in'=>'Please Sign In',
 	'rememberme'=>'Remember Me',
-	'forgot_pwd'=>'Forgot Your password?'
+	'forgot_pwd'=>'Forgot Your password?',
+	'sign_in'=>'Please register here.',
+	'name'=>'Name and Surname',
+	'email'=>'Email Address',
+	'cpassword'=>'Confirm Password',
+	'bregister'=>'Register',
 ];
